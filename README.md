@@ -3,3 +3,6 @@ Low cost and efficient electronic controller prototype for transient effects con
 
 - CRT.pdf (in Portuguese) - Research Grant work was afterwards used for this Master's Thesis
 - apresentação.pptx - Presentation of CRT project
+
+- Monografia - AMPLIFICADORES ÓPTICOS DE RAMAN.pdf - Licenciatura's work on Raman Amplifiers
+- APRESENTAÇÃO.PPS - Licenciatura's presentation on Raman Amplifiers
